@@ -46,7 +46,7 @@ const Footer = () => {
       
       <div className="site-footer__bottom">
         <div className="container">
-          <p>DESIGN BY ICEO.CO - © 2019. ALL RIGHTS RESERVED.</p>
+          <p>i-flip © 2019. ALL RIGHTS RESERVED.</p>
         </div>
       </div>
     </footer>
